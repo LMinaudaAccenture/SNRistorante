@@ -1,16 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="a09b565d1b602410fac440c6cc4bcb91" sys_domain="global" table="x_554157_ristorant_ordini" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>antipasto</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-17 09:10:46</sys_created_on>
-            <sys_id>f13622151ba02410fac440c6cc4bcb7a</sys_id>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>6dad3e551be02410fac440c6cc4bcbad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-17 09:10:46</sys_updated_on>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>secondo</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>e5ad3e551be02410fac440c6cc4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>6dad3e551be02410fac440c6cc4bcbae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primo</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>e1ad3e551be02410fac440c6cc4bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dolce</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>69ad3e551be02410fac440c6cc4bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cafffe</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-17 10:53:09</sys_created_on>
+            <sys_id>edad3e551be02410fac440c6cc4bcbaf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_554157_ristorant_ordini" sys_domain="global" view="Default view">a09b565d1b602410fac440c6cc4bcb91</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-17 10:53:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
