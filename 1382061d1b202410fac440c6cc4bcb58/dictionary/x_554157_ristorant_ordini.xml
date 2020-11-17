@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Ordini" max_length="40" name="x_554157_ristorant_ordini" type="collection">
+    <element label="Ordini" max_length="40" name="x_554157_ristorant_ordini" sizeclass="2" type="collection">
         <element attributes="encode_utf8=false" label="Antipasto" max_length="32" name="antipasto" reference="x_554157_ristorant_antipasti" type="reference"/>
         <element label="Cafffe" max_length="40" name="cafffe" type="boolean"/>
         <element attributes="encode_utf8=false" label="Dolce" max_length="32" name="dolce" reference="x_554157_ristorant_dolci" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element attributes="encode_utf8=false" label="Primo" max_length="32" name="primo" reference="x_554157_ristorant_primi" type="reference"/>
         <element attributes="encode_utf8=false" label="Secondo" max_length="32" name="secondo" reference="x_554157_ristorant_secondi" type="reference"/>
+        <element attributes="omit_sys_original=true" label="Totale" max_length="20" name="u_total" read_only="true" type="decimal"/>
         <index name="index">
             <element name="dolce"/>
         </index>
