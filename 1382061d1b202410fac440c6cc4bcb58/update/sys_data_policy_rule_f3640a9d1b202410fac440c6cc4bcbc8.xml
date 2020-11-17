@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>prezzo</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-17 06:43:10</sys_created_on>
+        <sys_data_policy display_value="Sets the Prezzo field to mandatory">7b640a9d1b202410fac440c6cc4bcbc5</sys_data_policy>
+        <sys_id>f3640a9d1b202410fac440c6cc4bcbc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>prezzo</sys_name>
+        <sys_package display_value="Ristorante" source="x_554157_ristorant">1382061d1b202410fac440c6cc4bcb58</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ristorante">1382061d1b202410fac440c6cc4bcb58</sys_scope>
+        <sys_update_name>sys_data_policy_rule_f3640a9d1b202410fac440c6cc4bcbc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-17 06:43:10</sys_updated_on>
+        <table>x_554157_ristorant_primi</table>
+    </sys_data_policy_rule>
+</record_update>
